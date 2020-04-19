@@ -45,7 +45,7 @@ mixins.DestroyModelMixin):
 
 
 
-
+print("Hello")
 
 
 #Class based APIviews 
